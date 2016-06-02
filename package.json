@@ -18,6 +18,8 @@
   "homepage": "https://github.com/dotJEM/angular-events#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-typescript": "^2.13.6"
+    "gulp-rename": "^1.2.2",
+    "gulp-typescript": "^2.13.6",
+    "gulp-uglify": "^1.5.3"
   }
 }
