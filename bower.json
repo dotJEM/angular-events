@@ -1,0 +1,14 @@
+{
+  "name": "dotjem-angular-events",
+  "description": "Adds support for some minor events into angular such as mouse-wheel etc...",
+  "main": "dotjem-angular-events.js",
+  "authors": [
+    "dotJEM"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "mousewheel",
+    "imageready"
+  ],
+  "homepage": "https://github.com/dotJEM/angular-events"
+}
